@@ -116,7 +116,7 @@ The radar chart confirms a **structural shift** in the LULC system — not just 
 
 ---
 
-## ✅ Accuracy Assessment
+## Accuracy Assessment
 
 Classification accuracy was validated using **confusion matrices** with 150 sample points (50 per class).
 
@@ -156,7 +156,7 @@ Classification accuracy was validated using **confusion matrices** with 150 samp
 
 ---
 
-## 🌱 Sustainability Perspective & Recommendations
+## Sustainability Perspective & Recommendations
 
 The results indicate a shift toward **unsustainable land transformation trends**. The decreasing ecological ratio coupled with spatial fragmentation suggests declining environmental resilience.
 
@@ -169,7 +169,7 @@ The results indicate a shift toward **unsustainable land transformation trends**
 
 ---
 
-## 🔚 Conclusion
+## Conclusion
 
 The RUET region is at a **critical transitional stage** — vegetation remains dominant but is declining steadily, while built-up area expands progressively. The spatial concentration and fragmentation of these changes amplifies their environmental impact beyond what area percentages alone suggest.
 
@@ -177,11 +177,7 @@ Timely planning interventions can prevent long-term environmental degradation an
 
 ---
 
-## 🛠️ Tools & Technologies
-
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white)
-![Landsat](https://img.shields.io/badge/Landsat%208-OLI-green?style=for-the-badge)
-![GIS](https://img.shields.io/badge/GIS-Remote%20Sensing-blue?style=for-the-badge)
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -189,23 +185,6 @@ Timely planning interventions can prevent long-term environmental degradation an
 | Landsat 8 OLI | Multispectral satellite imagery |
 | Google Earth | Reference imagery for training samples |
 | Field Verification | Ground truth for sample validation |
-
----
-
-## 📄 Citation
-
-If you use this work, please cite:
-
-```
-Spatiotemporal Land Use–Land Cover Change and Sustainability Assessment of RUET 
-Using GIS-Based Analysis. RUET Region, Rajshahi, Bangladesh.
-```
-
----
-
-## 📬 Contact
-
-For questions or collaborations, feel free to open an issue or reach out via GitHub.
 
 ---
 
