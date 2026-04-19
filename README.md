@@ -1,11 +1,9 @@
-# 🌍 Spatiotemporal LULC Change & Sustainability Assessment of RUET
+# Spatiotemporal LULC Change & Sustainability Assessment of RUET
 ### GIS-Based Analysis Using Landsat 8 | ArcGIS | Remote Sensing
-
-![LULC Banner](images/lulc_banner.png)
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project presents a **spatiotemporal assessment of Land Use–Land Cover (LULC) dynamics** in the **Rajshahi University of Engineering & Technology (RUET)** region, comparing land cover between **2013 and 2023** using GIS-based remote sensing techniques.
 
@@ -19,32 +17,7 @@ Key findings highlight:
 
 ---
 
-## 🗂️ Project Structure
-
-```
-LULC-RUET/
-│
-├── images/
-│   ├── study_area_satellite.png        # Satellite view of RUET study area
-│   ├── lulc_map_2013.png               # LULC classified map – 2013
-│   ├── lulc_map_2023.png               # LULC classified map – 2023
-│   ├── lulc_distribution_2023.png      # Pie chart – LULC distribution 2023
-│   ├── comparative_bar_chart.png       # Bar chart – Earlier vs 2023 comparison
-│   ├── spatial_change_map.png          # Spatial transformation interpretation map
-│   ├── green_builtup_ratio.png         # Green-to-built-up ratio trend
-│   ├── radar_chart.png                 # Radar chart – multi-indicator comparison
-│   ├── methodology_framework.png       # LULC methodology flowchart
-│   ├── confusion_matrix_2015.png       # Accuracy assessment – 2015
-│   └── confusion_matrix_2025.png       # Accuracy assessment – 2025
-│
-├── LULC_Project.pdf                    # Full project report
-├── Confusion_Matrix_LULC_2015_2025.docx  # Accuracy assessment document
-└── README.md
-```
-
----
-
-## 🛰️ Study Area
+##  Study Area
 
 The study focuses on the **RUET (Rajshahi University of Engineering & Technology)** region — a peri-urban institutional area where land transformation occurs in fragmented and spatially heterogeneous patterns.
 
