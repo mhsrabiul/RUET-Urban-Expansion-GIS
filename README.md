@@ -187,7 +187,3 @@ Timely planning interventions can prevent long-term environmental degradation an
 | Field Verification | Ground truth for sample validation |
 
 ---
-
-<p align="center">
-  Made with ❤️ for sustainable urban planning research
-</p>
